@@ -1523,7 +1523,7 @@ var text = '';
 else {
 return this.say(con, room, '/pm ' + by + ', Scrivimi il comando in PM.');
 }
-text += 'Lista dei comandi di cerbottana --> http://is.gd/cerbottana';
+text += 'Lista dei comandi di Johto Bot --> http://theiotolig.forumcommunity.net/?t=56612521';
 this.say(con, room, text);
 },
 credits: function(arg, by, room, con) {
