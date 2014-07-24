@@ -42,8 +42,8 @@ Everyone is more than welcome to contribute to the bot.
 However, please refrain from adding more example commands.
 
 Credits:
- - TalkTakesTime (Development)
- - Quinella (Development)
+ - Legit Button (Development)
+ - The Chaos (Development)
 
 License
 -------
